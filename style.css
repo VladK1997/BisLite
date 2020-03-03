@@ -17,6 +17,10 @@ svg{
 .clear{
 	clear: both;
 }
+.page{
+	overflow-x: hidden;
+	width: 100%;
+}
 .container{
 	width: 72.42%;
 	margin: 0 auto;
